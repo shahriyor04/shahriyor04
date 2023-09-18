@@ -27,7 +27,7 @@ You can click the Preview link to take a look at your changes.
 ![Snake](https://profile-readme-generator.com/assets/snake.svg)
 ## 🌐 Socials:
 
-[![Telegram](https://img.shields.io/badge/Telegram-%231DA1F2.svg?logo=Telegram&logoColor=white)](https://t.me/Hayotimz_engchiroyli_raman_004) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/miraziz-mirpolatov-8429b8278/](https://www.linkedin.com/in/shahriyor-boronov-72793628a/))  ![Gmail](https://img.shields.io/badge/boronovshahriyor2004@gmail.com-%230077B5.svg?logo=google&logoColor=white) [![LeetCode](https://img.shields.io/badge/LeetCode-%231DA1F2.svg?logo=leetcode&logoColor=ffdd54)](https://leetcode.com/boronoff/)
+[![Telegram](https://img.shields.io/badge/Telegram-%231DA1F2.svg?logo=Telegram&logoColor=white)](https://t.me/python_004) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/miraziz-mirpolatov-8429b8278/](https://www.linkedin.com/in/shahriyor-boronov-72793628a/))  ![Gmail](https://img.shields.io/badge/boronovshahriyor2004@gmail.com-%230077B5.svg?logo=google&logoColor=white) [![LeetCode](https://img.shields.io/badge/LeetCode-%231DA1F2.svg?logo=leetcode&logoColor=ffdd54)](https://leetcode.com/boronoff/)
 
 
 
