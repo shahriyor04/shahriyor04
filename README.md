@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🔭 I’m currently working on Django (DRF)
 
-- 💬 Ask me about Python, Django, Sql, PostgreSQL, Telegram Bot
+- 💬 Ask me about Python, Django, Sql, PostgreSQL, Telegram Bot,DRF
 - 📫 How to reach me boronovshahriyor2004@gmail.com
 
 - 📄 Know about my experiences by this [Resume](https://github.com/shahriyor04/my-resume/blob/master/my_resume.pdf)
